@@ -8,9 +8,9 @@ Content:
 
 # 👋 Hi! I'm Tomislav Petrovic 
 
-## 🛠️ QA Tester | Software Tester | UX/UI design background | Ex-Civil Engineer  
+## 🛠️ QA Tester | Software Tester | UX/UI design background  
 
-Welcome to my GitHub!
+Welcome to my GitHub!  
 I'm a detail-oriented **QA Tester (Trainee) transitioning from UX/UI design and civil engineering** into the **software testing**.
 Throughout my career, I have worked on designing websites and mobile applications, where, I was also involved in **manual testing** of the projects I worked on.
 I have started exploring **test automation**.  
@@ -19,7 +19,7 @@ I have started exploring **test automation**.
 ✔️ **Manual Testing** – Test case writing & execution, bug tracking and reporting, usability testing  
 ✔️ **Automation Basics** – Learning Selenium with Python  
 ✔️ **UX/UI Insights** – Background in user research and interface design for improved user experience  
-✔️ **Strong Analytical Skills** – Developed through years in civil engineering and project management  
+✔️ **Strong Analytical Skills** – Developed through years working as a civil engineering and in project management  
 
 ## 📌 Technologies & Tools:
 - **Testing:** Selenium, Jira, TestRail  
@@ -37,7 +37,7 @@ Check out my:
 🔹 **[Test Automation Demos](./Python/Selenium/)(#)** – My automation scripts for learning Selenium
 
 Also, if you are interested, reach out and I would gladly share with you my:  
-🔹 **[UI/UX Case Studies](#)** – Various projects I worked on as a UX/UI designer  
+🔹 **[UI/UX Case Studies]** – Various projects I worked on as a UX/UI designer  
 
 ## 🎯 My Goal  
 I'm eager and motivated to join a **QA/software testing team** where I can contribute my skills to help ensure high-quality software.
