@@ -33,7 +33,7 @@ I have started exploring **test automation**.
 
 ## 📂 My Projects
 Check out my:
-🔹 **[Python exercises and projects](./Python/Exercises/)(#)** – practicing Python
+🔹 **[Python exercises and projects](./Python/Exercises/)(#)** – practicing Python  
 🔹 **[Test Automation Demos](./Python/Selenium/)(#)** – My automation scripts for learning Selenium
 
 Also, if you are interested, reach out and I would gladly share with you my:
