@@ -36,7 +36,7 @@ Check out my:
 🔹 **[Python exercises and projects](./Python/Exercises/)(#)** – practicing Python  
 🔹 **[Test Automation Demos](./Python/Selenium/)(#)** – My automation scripts for learning Selenium
 
-Also, if you are interested, reach out and I would gladly share with you my:
+Also, if you are interested, reach out and I would gladly share with you my:  
 🔹 **[UI/UX Case Studies](#)** – Various projects I worked on as a UX/UI designer  
 
 ## 🎯 My Goal  
