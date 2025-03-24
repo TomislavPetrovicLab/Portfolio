@@ -11,6 +11,7 @@ Content:
 ## 🛠️ QA Tester | Software Tester | UX/UI design background  
 
 Welcome to my GitHub!  
+
 I'm a detail-oriented **QA Tester (Trainee) transitioning from UX/UI design and civil engineering** into the **software testing**.
 Throughout my career, I have worked on designing websites and mobile applications, where, I was also involved in **manual testing** of the projects I worked on.
 I have started exploring **test automation**.  
