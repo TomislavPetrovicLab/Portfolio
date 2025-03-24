@@ -32,7 +32,7 @@ I have started exploring **test automation**.
 🔹 ISTQB Certification preparation  
 
 ## 📂 My Projects  
-🔹 **[Python exercises/projects](#)** – My Python practice  
+🔹 **[Check out my Python exercises and projects](./Python/Exercises/)(#)** – My Python practice  
 🔹 **[Test Automation Demos](#)** – My automation scripts for learning Selenium  
 🔹 **[UI/UX Case Studies](#)** – Various projects I worrked on as a UX/UI designer  
 
