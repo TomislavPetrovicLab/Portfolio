@@ -45,4 +45,4 @@ I'm eager and motivated to join a **QA/software testing team** where I can contr
 ## 📫 Let's Connect!
 
 Feel free to contact me via LinkedIn:
-💼 [linkedin.com/in/tom-petrovic/](#)  
+💼 [linkedin.com/in/tom-petrovic/](linkedin.com/in/tom-petrovic/)(#)  
