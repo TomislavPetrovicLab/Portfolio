@@ -31,10 +31,13 @@ I have started exploring **test automation**.
 🔹 API Testing – Working with Postman for API validation  
 🔹 ISTQB Certification preparation  
 
-## 📂 My Projects  
-🔹 **[Check out my Python exercises and projects](./Python/Exercises/)(#)** – My Python practice  
-🔹 **[Test Automation Demos](#)** – My automation scripts for learning Selenium  
-🔹 **[UI/UX Case Studies](#)** – Various projects I worrked on as a UX/UI designer  
+## 📂 My Projects
+Check out my:
+🔹 **[Python exercises and projects](./Python/Exercises/)(#)** – practicing Python
+🔹 **[Test Automation Demos](./Python/Selenium/)(#)** – My automation scripts for learning Selenium
+
+Also, if you are interested, reach out and I would gladly share with you my:
+🔹 **[UI/UX Case Studies](#)** – Various projects I worked on as a UX/UI designer  
 
 ## 🎯 My Goal  
 I'm eager and motivated to join a **QA/software testing team** where I can contribute my skills to help ensure high-quality software.
