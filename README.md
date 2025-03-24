@@ -15,7 +15,7 @@ I'm a detail-oriented **QA Tester (Trainee) transitioning from UX/UI design and 
 Throughout my career, I have worked on designing websites and mobile applications, where, I was also involved in **manual testing** of the projects I worked on.
 I have started exploring **test automation**.  
 
-## 🔍 What I Bring to the Table:
+## 🔍 My Skills:
 ✔️ **Manual Testing** – Test case writing & execution, bug tracking and reporting, usability testing  
 ✔️ **Automation Basics** – Learning Selenium with Python  
 ✔️ **UX/UI Insights** – Background in user research and interface design for improved user experience  
@@ -26,8 +26,8 @@ I have started exploring **test automation**.
 - **Programming:** Python, HTML, CSS  
 - **Design Tools:** Figma, Adobe Creative Suite 
 
-## 🌱 What I’m Learning:
-🔹 Advanced automation testing with Selenium & Python
+## 🌱 What I’m Learning:  
+🔹 Advanced automation testing with Selenium & Python  
 🔹 API Testing – Working with Postman for API validation  
 🔹 ISTQB Certification preparation  
 
