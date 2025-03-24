@@ -45,4 +45,4 @@ I'm eager and motivated to join a **QA/software testing team** where I can contr
 ## 📫 Let's Connect!
 
 Feel free to contact me via LinkedIn:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](linkedin.com/in/tom-petrovic/)(#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/tom-petrovic/)
