@@ -1,8 +1,8 @@
 from http.client import responses  # Import responses from http.client to handle HTTP status codes if needed
 
-import requests
-from selenium import webdriver
-from selenium.webdriver.common.by import By
+import requests  # Import the requests library to send HTTP requests and check image status
+from selenium import webdriver  # Import the webdriver module to control the browser via Selenium
+from selenium.webdriver.common.by import By  # Import By to locate elements in the browser
 
 browser = webdriver.Chrome()
 browser.get("https://the-internet.herokuapp.com/broken_images")
