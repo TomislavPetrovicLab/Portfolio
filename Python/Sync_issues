@@ -1,0 +1,23 @@
+SYNCHRONIZATION ISSUES:
+
+Synchronization issues in Selenium with Python primarily refer to challenges related to the timing misalignment
+between the automation script and the web application being tested.
+These issues arise due to the asynchronous nature of web applications where elements may load or change dynamically,
+and the automation script may not synchronize properly with these changes.
+
+COMMON ISSUES:
+# Element Visibility - The script tries to interact with an element before it is visible on the page, leading to:
+>>NoSuchElementException<< or >>ElementNotVisibleException<<
+# Element Interactability - the script attempts to interact with an element before it becomes interactable,
+such as clicking a button or typing in a text field.
+# Page Load - The script proceeds with actions before the page has finished loading completely, resulting in
+>>StateElementReferenceException<< or >>ElementNotInteractableException<<.
+# Asynchronous Operations - Web applications often use asynchronous operations such as AJAX requests or javaScript
+timers to update content dynamically. The script needs to wait for these changes to reflect before performing actions.
+
+IMPLICIT WAIT
+- Selenium has built-in way to automatically wait for elements called an implicit wait.
+- An implicit wait value can be set either with the timeouts capability in the browser options or with a driver method.
+- This is a global setting that applies to every element location call for the entire session.
+- The default value is 0, which means that if the element is not found, it will immediately return error.
+- If an implicit wait is set, the driver will wait for the duration of the provided value before returning the error.
