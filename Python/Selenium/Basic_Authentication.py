@@ -14,4 +14,4 @@ browser.implicitly_wait(5)  # Waits up to 5 seconds for elements to be found
 
 browser.get(url)
 
-time.sleep(2)
+# You can add an explicit wait here if there's a specific element to wait for
