@@ -1,4 +1,4 @@
-from http.client import responses
+from http.client import responses  # Import responses from http.client to handle HTTP status codes if needed
 
 import requests
 from selenium import webdriver
