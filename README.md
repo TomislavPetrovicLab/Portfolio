@@ -8,7 +8,7 @@ Content:
 
 # 👋 Hi! I'm Tomislav Petrovic 
 
-## 🛠️ QA Tester | Software Tester | UX/UI design background  
+## 🛠️ QA Tester | UX/UI design background  
 
 Welcome to my GitHub!  
 
